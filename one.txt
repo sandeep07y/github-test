@@ -1,3 +1,5 @@
 new file, new line is added here
 hello
 hi
+
+hi_all
